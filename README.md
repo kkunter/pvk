@@ -12,7 +12,7 @@ GitHub Kasutaja: kkunter
 ---------------------------------------------------------------------------
                     
                     
-                            REPO BY KÜNTER PÄRTEL VS18
+                                    REPO BY KÜNTER PÄRTEL VS18
                             
                             
 
