@@ -1,12 +1,12 @@
-Progrevahendite kasutamine
+# Progrevahendite kasutamine
 
-Õpime GitHubi ühendama PHPStormiga.
-
-
-Kuupäev on 19.11.2018
+## Õpime GitHubi ühendama PHPStormiga.
 
 
-GitHub Kasutaja: kkunter  
+### Kuupäev on 19.11.2018
+
+
+## GitHub Kasutaja: kkunter  
 
 
 [English .md file](README.en.md)
