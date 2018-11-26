@@ -6,7 +6,10 @@ Progrevahendite kasutamine
 Kuupäev on 19.11.2018
 
 
-GitHub Kasutaja: kkunter
+GitHub Kasutaja: kkunter  
+
+
+[English .md file](PHP/README.en.md)
 
 
 ---------------------------------------------------------------------------
