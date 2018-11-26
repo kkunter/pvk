@@ -9,7 +9,7 @@ Kuupäev on 19.11.2018
 GitHub Kasutaja: kkunter  
 
 
-[English .md file](PHP/README.en.md)
+[English .md file](README.en.md)
 
 
 ---------------------------------------------------------------------------
