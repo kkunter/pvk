@@ -13,7 +13,7 @@ Here is two references to PHPStorm.
 Learning GitCommit and GitPush etc.  
 
 
-[English .md file](PHP/README.en.md)
+[English .md file](README.en.md)
 
 
 
