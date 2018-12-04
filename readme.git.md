@@ -1,8 +1,8 @@
 - git init
 - git add fail
-- git commit -m "mmhmm"
+- git commit -m "jeboi"
 - git status
-- git  add fail1 fail2 fail3
+- git  add üksfail teinefail kolmasfail
 - git log
 - git log  --oneline --decorate --all --graph
 - git revert
