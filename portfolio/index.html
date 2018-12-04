@@ -231,3 +231,87 @@
             </div>
         </div>
     </div>
+    <!-- CONTACT -->
+    <div id="contact" class="collapse">
+        <div class="card card-body bg-danger text-white py-5">
+            <h2>Contact</h2>
+            <p class="lead">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil, ut!</p>
+        </div>
+
+        <div class="card card-body py-5">
+            <h3>Get In Touch</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error quos illo, dicta id voluptates enim.</p>
+            <form>
+                <div class="form-group">
+                    <div class="input-group input-group-lg">
+                        <div class="input-group-prepend">
+                <span class="input-group-text bg-danger text-white">
+                  <i class="fas fa-user"></i>
+                </span>
+                        </div>
+                        <input type="text" class="form-control bg-dark text-white" placeholder="Name">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="input-group input-group-lg">
+                        <div class="input-group-prepend">
+                <span class="input-group-text bg-danger text-white">
+                  <i class="fas fa-envelope"></i>
+                </span>
+                        </div>
+                        <input type="email" class="form-control bg-dark text-white" placeholder="Email">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="input-group input-group-lg">
+                        <div class="input-group-prepend">
+                <span class="input-group-text bg-danger text-white">
+                  <i class="fas fa-pencil-alt"></i>
+                </span>
+                        </div>
+                        <textarea class="form-control bg-dark text-white" placeholder="Name"></textarea>
+                    </div>
+                </div>
+
+                <input type="submit" value="Submit" class="btn btn-danger btn-block btn-lg">
+            </form>
+        </div>
+    </div>
+
+
+    <!-- FOOTER -->
+    <footer id="main-footer" class="p-5 bg-dark text-white">
+        <div class="row">
+            <div class="col-md-6">
+                <a href="#" class="btn btn-outline-light">
+                    <i class="fas fa-cloud"></i> Download Resume
+                </a>
+            </div>
+        </div>
+    </footer>
+</div>
+
+
+<script src="http://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+        crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T"
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js"></script>
+
+<script>
+    $('.port-item').click(function () {
+        $('.collapse').collapse('hide');
+    });
+
+    $(document).on('click', '[data-toggle="lightbox"]', function (e) {
+        e.preventDefault();
+        $(this).ekkoLightbox();
+    });
+</script>
+</body>
+
+</html>
