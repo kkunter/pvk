@@ -1,0 +1,9 @@
+- git init
+- git add fail
+- git commit -m "mmhmm"
+- git status
+- git  add fail1 fail2 fail3
+- git log
+- git log  --oneline --decorate --all --graph
+- git revert
+- git reset
