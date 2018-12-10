@@ -1,11 +1,11 @@
 ![github pussycat](https://assets-cdn.github.com/images/modules/open_graph/github-octocat.png)  
 
-#Kirjeldus
+Kirjeldus
 
-##Projekti Lühikirjeldus
+Projekti Lühikirjeldus
 
 
-#Sisukord
+Sisukord
 
 Et inimesed kiiresti navigeerida saaks.
   
